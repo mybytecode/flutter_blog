@@ -1,16 +1,22 @@
 # flutter_blog
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    By using this application you can convert any wordpress blog into native **Android** and **iOS app**.
+    This app has basic blog app features as follow - 
+    
+ # Features
+      * Easy to configure ( Just replace BASE URL of your wordpress website and category id with your category id. Yess, That's         it.  )
+      * Lazy loading.
+      * Dark mode.
+      * Google Admob ads.
+      * Facebook ads.
+      * Google signin.
+      * Save offline.
+      * Add to favourite.
+      * Customize article read view.
+      * Comment on articles. ( You need to enable comment anyone from wordpress admin panel. )
+      * Short preview of Article when long pressed.
+      * One-Signal notification enabled when you publish any article.
+      * About screen.
+      * Search Articles.
+      * and much more.
+      
+ # Screenshots-
