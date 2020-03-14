@@ -22,3 +22,4 @@
  # Screenshots-
  
  ![ss](https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg =200x100)
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg' >
