@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834427573397",
+    "firebase_url": "https://sports-fantasy-ind.firebaseio.com",
+    "project_id": "sports-fantasy-ind",
+    "storage_bucket": "sports-fantasy-ind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834427573397:android:d0d22249d29d0ef5",
+        "android_client_info": {
+          "package_name": "com.myvytecode.sportsfantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834427573397-hemju7scj26p9cqg79tgfclfua9envb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRJs12jXuW3DT76BA7ZRQHMApNyZr2_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834427573397-hemju7scj26p9cqg79tgfclfua9envb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
