@@ -22,20 +22,20 @@ class Config {
   static const String gInstagramUrl =
       "https://instagram.com/sportsfantasyindia";
   static const String gAdmobAppIdAndroid =
-      "ca-app-pub-5920920631626545~3060365382";
+      "ca-app-pub-5920920631626545******";
   static const String gBannerAdUnitId =
-      "ca-app-pub-5920920631626545/9434202045";
+      "ca-app-pub-5920920631626545****************";
   static const String gBannerTestAds = "ca-app-pub-3940256099942544/6300978111";
   static const String gInterstitialAds =
-      "ca-app-pub-5920920631626545/4181875362";
+      "ca-app-pub-592092063162*****";
 
   //facebook ads implementations
   static const String gFacebookBannerAd = "171891974026449_171894004026246";
   static const String gFacebookNativeBannerAd =
       "171891974026449_171909534024693";
   static const String gFacebookIntestitialAd =
-      "171891974026449_171908534024793";
-  static const String gFacebookNativeAd = "171891974026449_171912730691040";
+      "171891974026449_17190853*****";
+  static const String gFacebookNativeAd = "171891974026449_********";
 
   //Name the categories which will be displayed on tabBar
   static const List gCategoriesNamesTab = [
@@ -48,5 +48,5 @@ class Config {
   //Name of Tabs as you have added on wordpress and with the sequence of above list of tab names
   static const List gCategoriesId = ["", 2, 20, 21];
 
-  static const gOneSignalAppId = "40c46587-61df-419c-8c51-19eec9ebd5d5";
+  static const gOneSignalAppId = "40c46587-61df-419c-8c*****";
 }
