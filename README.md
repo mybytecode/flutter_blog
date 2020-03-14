@@ -20,5 +20,35 @@
       * and much more.
       
  # Screenshots-
+ ## 1 
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg' height=650px width=300px >
+ ## 2
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/2.jpg' height=650px width=300px >
+  ## 3
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/3.jpg' height=650px width=300px >
+  ## 4
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/4.jpg' height=650px width=300px >
+  ## 5
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/5.jpg' height=650px width=300px >
+  ## 6
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/6.jpg' height=650px width=300px >
+  ## 7
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/7.jpg' height=650px width=300px >
+  ## 8
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/8.jpg' height=650px width=300px >
+  ## 9
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/9.jpg' height=650px width=300px >
+  ## 10
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/10.jpg' height=650px width=300px >
+  ## 11
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/11.jpg' height=650px width=300px >
+  ## 12
+ <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/12.jpg' height=650px width=300px >
  
- <img src = 'https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg' height=700px width=300px >
+ 
+ # Documentation Links - 
+    1. [One-Signal flutter](https://documentation.onesignal.com/docs/flutter-sdk-setup)
+    2. [Flutter](https://flutter.dev/docs)
+    3. [Firebase setup](https://pub.dev/packages/firebase_auth)
+    4. [wordpress REST API](https://developer.wordpress.org/rest-api/)
+ 
