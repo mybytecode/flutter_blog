@@ -21,5 +21,4 @@
       
  # Screenshots-
  
- ![ss]
- (https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg)
+ ![ss](https://github.com/mybytecode/flutter_blog/blob/master/ss/1.jpg)
