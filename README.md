@@ -1,7 +1,14 @@
-# flutter_blog
-    By using this application you can convert any wordpress blog into native **Android** and **iOS app**.
-    This app has basic blog app features as follow - 
+# Flutter Blog
+    This App converts any wordpress blog into Android and iOS application using wp-json REST API.
     
+ # Setup
+    1. Open lib/constants/Constants.dart
+    2. Change the constants with your constants.
+        * gAppName ( String ) - Name of your application
+        * gBaseUrl ( String ) - Base url of your wordpress blog. eg- http://example.com
+        * gAuthorMail ( String ) - Mail for About us page. Users can mail you on this mail address directly from app.
+        * gCategoriesNamesTab ( array ) - Names of the categories of you want to display in tabs.
+        * gCategoriesId ( array ) - Id of categories as per names respectively.
  # Features
       * Easy to configure ( Just replace BASE URL of your wordpress website and category id with your category id. Yess, That's         it.  )
       * Lazy loading.
